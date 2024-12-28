@@ -5,7 +5,7 @@
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/test-only/test-only.git
+git clone https://github.com/Faygo1337/test-only.git
 ```
 
 2. Navigate to the project directory:
